@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sryther
-- 👀 I’m interested in cloud environments and smart application development
-- 🌱 I’m currently learning advanced Kubernetes (looking to pass the Kubernetes Security Specialist certfication)
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m Paul Rey aka @Sryther!
+- 👀 I’m interested in cloud environments and smart application development.
+- 🚀 I created [/mnt](https://www.slash-mnt.com) in early 2024 to help companies grow in Cloud environments.
+- 🌱 Looking forward CNCF applications and projects closely.
+- 💞️ I’m looking to collaborate on anything! I started to help CNCF working on their repos.
 - 📫 How to reach me: contact@paulrey.io and https://www.paulrey.io
 
 <!---
